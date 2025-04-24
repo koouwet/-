@@ -8,4 +8,5 @@ urlpatterns = [
     path('path/3', views.m3),
     path('path/4', views.m4),
     path('path/5', views.m5),
+    path('rewiew', views.rewiew)
 ]

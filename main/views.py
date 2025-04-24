@@ -18,3 +18,6 @@ def m4(request):
 
 def m5(request):
     return render(request, 'index_m5.html')
+
+def rewiew(request):
+    return render(request, 'index_rewiew.html')
